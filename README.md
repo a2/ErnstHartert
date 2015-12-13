@@ -4,4 +4,4 @@
 
 ## License
 
-MessagePack.swift is released under the [MIT license](https://github.com/a2/ErnstHartert/blob/master/LICENSE).
+ErnstHartert is released under the [MIT license](https://github.com/a2/ErnstHartert/blob/master/LICENSE).
